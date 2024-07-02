@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    background-color: #f7f5f5;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding:18px;
+    
+    color: black;
+ background-image: linear-gradient(yellow,lightgreen);
+ border-radius: 5px;
+}
+article {
+    background-color: white;
+    padding:30px ;
+    width: 400px;
+    margin: 22px;
+}
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    
+   
+}
+h2 {
+color: black;
+text-align: center;
+
+
+
+}
+footer {
+background-image: linear-gradient(lightgreen,yellow);
+border-radius: 5px;
+padding: 0px;
+display: flex;
+
+
+}
+.vid {
+text-align: center;
+height:250px;
+margin: 35px;
+
+
+}
+iframe {
+margin: 10px ;
+
+}
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
